@@ -1,0 +1,1 @@
+<section class="narrow page-heading"><span class="eyebrow">Something went wrong</span><h1>We could not open this page</h1><p><?=e($message)?></p><a class="button" href="<?=e(url('home'))?>">Return home</a></section>

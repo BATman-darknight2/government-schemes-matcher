@@ -1,0 +1,9 @@
+{
+  "name": "student/government-schemes-matcher",
+  "description": "Educational PHP/MySQL government scheme matcher",
+  "type": "project",
+  "require": {"php": ">=8.1", "ext-pdo": "*", "ext-pdo_mysql": "*", "ext-mbstring": "*"},
+  "require-dev": {"phpunit/phpunit": "^10.5 || ^11.0"},
+  "autoload": {"classmap": ["app/"]},
+  "scripts": {"test": "phpunit"}
+}

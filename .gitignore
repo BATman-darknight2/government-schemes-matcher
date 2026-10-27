@@ -1,0 +1,15 @@
+/config/database.local.php
+/storage/
+/vendor/
+.env
+.env.*
+*.log
+*.sqlite
+*.db
+.DS_Store
+Thumbs.db
+/docs/submission/build_report.py
+/docs/submission/Government_Schemes_Matcher_Project_Report.docx
+/docs/submission/Government_Schemes_Matcher_Project_Report.pdf
+/docs/submission/Software_Engineering_Lab_Record.pdf
+/docs/submission/Software_Engineering_Lab_Record_Official.pdf
